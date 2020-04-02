@@ -13,7 +13,7 @@
       android:allowBackup="false"
       android:theme="@style/AppTheme">
 
-      <service android:name="com.firebasenotifications.service.RNFirebaseBackgroundMessage" />
+      <service android:name="com.firebasenotifications.service.RNFirebaseBackgroundMessagingService" />
 
       <service android:name="io.invertase.firebase.messaging.RNFirebaseMessagingService">
         <intent-filter>

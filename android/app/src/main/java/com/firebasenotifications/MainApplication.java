@@ -10,7 +10,6 @@ import com.facebook.react.ReactPackage;
 import com.facebook.soloader.SoLoader;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
-import com.firebasenotifications.service.RNFirebaseBackgroundMessage;
 import com.facebook.react.HeadlessJsTaskService;
 //import io.invertase.firebase.firestore.RNFirebaseFirestorePackage; // <-- Add this line
 //import io.invertase.firebase.auth.RNFirebaseAuthPackage; // <-- Add this line
